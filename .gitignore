@@ -1,0 +1,13 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore bin folder
+bin/
+
+# Ignore MySQL connector library sources if not needed
+lib/mysql-connector-j-9.4.0/src/
+
+# Ignore IDE/editor files (optional)
+*.idea/
+*.vscode/
+*.DS_Store

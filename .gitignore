@@ -1,0 +1,22 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore bin folder
+bin/
+
+# Ignore MySQL connector library sources if not needed
+lib/mysql-connector-j-9.4.0/src/
+
+# Ignore full library folder if you don’t want to push JARs
+lib/
+
+# Ignore SQL export HTML/CSS folder
+AthleteManagement_Batabase_files/
+
+# Ignore HTML files
+*.html
+
+# Ignore IDE/editor files
+*.idea/
+*.vscode/
+*.DS_Store
